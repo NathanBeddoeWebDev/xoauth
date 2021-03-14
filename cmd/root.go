@@ -7,11 +7,11 @@ import (
 	"runtime"
 	"strconv"
 
-	"github.com/XeroAPI/xoauth/pkg/config"
-	"github.com/XeroAPI/xoauth/pkg/connect"
-	"github.com/XeroAPI/xoauth/pkg/db"
-	"github.com/XeroAPI/xoauth/pkg/keyring"
-	"github.com/XeroAPI/xoauth/pkg/tokens"
+	"github.com/NathanBeddoeWebDev/xoauth/pkg/config"
+	"github.com/NathanBeddoeWebDev/xoauth/pkg/connect"
+	"github.com/NathanBeddoeWebDev/xoauth/pkg/db"
+	"github.com/NathanBeddoeWebDev/xoauth/pkg/keyring"
+	"github.com/NathanBeddoeWebDev/xoauth/pkg/tokens"
 	"github.com/spf13/cobra"
 )
 
