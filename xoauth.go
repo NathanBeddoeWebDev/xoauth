@@ -3,7 +3,7 @@ package main
 import (
 	"log"
 
-	"github.com/XeroAPI/xoauth/cmd"
+	"github.com/NathanBeddoeWebDev/xoauth/cmd"
 )
 
 func main() {
