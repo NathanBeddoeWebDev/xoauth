@@ -1,4 +1,4 @@
-module github.com/XeroAPI/xoauth
+module github.com/NathanBeddoeWebDev/xoauth
 
 go 1.15
 
