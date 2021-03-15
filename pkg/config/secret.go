@@ -4,7 +4,7 @@ import (
 	"errors"
 	"log"
 
-	"github.com/XeroAPI/xoauth/pkg/db"
+	"github.com/NathanBeddoeWebDev/xoauth/pkg/db"
 	"github.com/spf13/cobra"
 )
 

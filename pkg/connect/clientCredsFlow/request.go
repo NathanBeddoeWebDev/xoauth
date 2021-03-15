@@ -7,8 +7,8 @@ import (
 	"os"
 	"strings"
 
-	"github.com/XeroAPI/xoauth/pkg/db"
-	"github.com/XeroAPI/xoauth/pkg/oidc"
+	"github.com/NathanBeddoeWebDev/xoauth/pkg/db"
+	"github.com/NathanBeddoeWebDev/xoauth/pkg/oidc"
 	"github.com/gookit/color"
 )
 

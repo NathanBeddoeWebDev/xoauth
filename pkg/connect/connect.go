@@ -3,10 +3,10 @@ package connect
 import (
 	"log"
 
-	"github.com/XeroAPI/xoauth/pkg/connect/authCodeFlow"
-	"github.com/XeroAPI/xoauth/pkg/connect/clientCredsFlow"
-	"github.com/XeroAPI/xoauth/pkg/db"
-	"github.com/XeroAPI/xoauth/pkg/oidc"
+	"github.com/NathanBeddoeWebDev/xoauth/pkg/connect/authCodeFlow"
+	"github.com/NathanBeddoeWebDev/xoauth/pkg/connect/clientCredsFlow"
+	"github.com/NathanBeddoeWebDev/xoauth/pkg/db"
+	"github.com/NathanBeddoeWebDev/xoauth/pkg/oidc"
 )
 
 func Authorise(database *db.CredentialStore, name string, operatingSystem string, dryRun bool, localHostPort int) {

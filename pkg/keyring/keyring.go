@@ -1,6 +1,6 @@
 package keyring
 
-import "github.com/XeroAPI/xoauth/pkg/oidc"
+import "github.com/NathanBeddoeWebDev/xoauth/pkg/oidc"
 
 const KeyRingServiceName = "com.xero.xoauth"
 

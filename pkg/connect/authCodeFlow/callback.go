@@ -9,7 +9,7 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/XeroAPI/xoauth/pkg/oidc"
+	"github.com/NathanBeddoeWebDev/xoauth/pkg/oidc"
 	"github.com/gookit/color"
 )
 

@@ -4,7 +4,7 @@ import (
 	"log"
 
 	"github.com/AlecAivazis/survey/v2"
-	"github.com/XeroAPI/xoauth/pkg/db"
+	"github.com/NathanBeddoeWebDev/xoauth/pkg/db"
 )
 
 func ConfirmDelete(database *db.CredentialStore, connection string) {

@@ -10,8 +10,8 @@ import (
 	"time"
 
 	"github.com/AlecAivazis/survey/v2"
-	"github.com/XeroAPI/xoauth/pkg/db"
-	"github.com/XeroAPI/xoauth/pkg/oidc"
+	"github.com/NathanBeddoeWebDev/xoauth/pkg/db"
+	"github.com/NathanBeddoeWebDev/xoauth/pkg/oidc"
 	"github.com/gookit/color"
 	"github.com/spf13/cobra"
 )

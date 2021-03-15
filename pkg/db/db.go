@@ -5,8 +5,8 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/XeroAPI/xoauth/pkg/keyring"
-	"github.com/XeroAPI/xoauth/pkg/oidc"
+	"github.com/NathanBeddoeWebDev/xoauth/pkg/keyring"
+	"github.com/NathanBeddoeWebDev/xoauth/pkg/oidc"
 
 	"io/ioutil"
 	"log"
